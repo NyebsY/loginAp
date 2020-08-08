@@ -71,3 +71,14 @@ label{
 	font: bold;	
 }
 
+.nav_btn{
+	width: 400px;
+	margin: 10px;
+	margin-left: 30px;
+	padding: 5px;
+	background-color:deepskyblue;
+	text-align: center;
+	color: white;
+	font-size: 18px;
+}
+
